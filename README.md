@@ -48,7 +48,7 @@ This separation of concerns makes the codebase clean and easy to manage for futu
 To run this project on your local machine, follow these simple steps:
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/numan682/movie-project.git](https://github.com/numan682/movie-project.git)
+    git clone https://github.com/numan682/movie-project.git
     ```
 2.  **Navigate to the project directory**:
     ```bash
